@@ -1,4 +1,4 @@
-# building_extraction_ml-dl
+# building_extraction_ml-dl model
 Overview:
 This repository provides an implementation of building extraction from satellite imagery using deep learning techniques, specifically utilizing the ResNet model architecture. Building extraction is a crucial task in various applications such as urban planning, disaster response, and environmental monitoring. Deep learning models offer a promising approach to automate this process with high accuracy.
 
